@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'line-bot-api'
+gem 'sinatra'
+gem 'pg'
+gem 'sinatra-sequel'
